@@ -1,0 +1,25 @@
+###############################################
+#   This dataset is a subset of VCTK corpus   #
+###############################################
+
+ID  AGE  GENDER  ACCENTS  REGION  NUM_OF_UTTR
+232  23  M    English    Southern  England  412
+236  23  F    English    Manchester         492
+238  22  F    NorthernIrish  Belfast        454
+239  22  F    English    SW  England        503
+244  22  F    English    Manchester         420
+247  22  M    Scottish  Argyll              475
+250  22  F    English    SE  England        481
+257  24  F    English    Southern  England  434
+258  22  M    English    Southern  England  414
+259  23  M    English    Nottingham         481     
+261  26  F    NorthernIrish  Belfast        474
+263  22  M    Scottish  Aberdeen            471
+270  21  M    English    Yorkshire          462
+271  19  M    Scottish  Fife                454
+333  19  F    American  Indiana             421
+334  18  M    American  Chicago             423
+335  25  F    NewZealand  English           422  
+336  18  F    SouthAfrican  Johannesburg    418
+347  26  M    SouthAfrican  Johannesburg    423
+374  28  M    Australian  English           424
